@@ -11,7 +11,7 @@ An interactive FAQ accordion built with HTML, CSS, and JavaScript.
 
 ### Screenshot
 
-![FAQ Accordion Screenshot](./assets/images/faq-accordion-screenshot.png)
+![FAQ Accordion Screenshot](/faq-accordion-screenshot.png)
 
 ## 🛠️ Technologies Used
 
