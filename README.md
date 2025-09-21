@@ -11,7 +11,7 @@ An interactive FAQ accordion built with HTML, CSS, and JavaScript.
 
 ### Screenshot
 
-![FAQ Accordion Screenshot](screenshot.png)
+![FAQ Accordion Screenshot](./assets/images/faq-accordion-screenshot.png)
 
 ## 🛠️ Technologies Used
 
@@ -23,5 +23,5 @@ An interactive FAQ accordion built with HTML, CSS, and JavaScript.
 
 👩‍💻 Created by **Prakruti Pareek**
 
-- GitHub: [yourusername](https://github.com/prakrutipareek)
-- Portfolio: [prakruti-portfolio.netlify.app](https://prakruti-pareek-portfolio.netlify.app/)
+- GitHub: [PrakrutiPareek](https://github.com/PrakrutiPareek)
+- Portfolio: [prakruti-pareek-portfolio.netlify.app](https://prakruti-pareek-portfolio.netlify.app/)
