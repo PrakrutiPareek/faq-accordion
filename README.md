@@ -6,8 +6,8 @@ An interactive FAQ accordion built with HTML, CSS, and JavaScript.
 - Smooth transitions
 - Responsive design
 
-**Live Demo:** [View on Netlify](https://faq-accordion.netlify.app)  
-**Source Code:** [GitHub](https://github.com/yourusername/faq-accordion)
+**Live Demo:** [View on Netlify](https://faq-accordion-pp.netlify.app)  
+**Source Code:** [GitHub](https://github.com/PrakrutiPareek/faq-accordion)
 
 ### Screenshot
 
